@@ -1,0 +1,3 @@
+[submodule "app/dojo-basic"]
+	path = app/dojo-basic
+	url = https://github.com/meeas/dojo-basic.git
